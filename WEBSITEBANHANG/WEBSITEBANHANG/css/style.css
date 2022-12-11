@@ -1,0 +1,81 @@
+﻿*{
+    margin:0;
+    padding:0;
+    font-size:15px;
+}
+ul {
+    list-style-type: none;
+}
+a {
+    text-decoration: none !important;
+    color: #4a4a4a;
+}
+.box-content {
+    display: inline-flex;
+    width: 100%;
+    /*border: 1px solid #ddd;*/
+    margin-top: 50px;
+    margin-bottom: 150px;
+}
+.content-left {
+    width: 20%;
+    padding-left: 10px;
+    border: 1px solid #ddd;
+}
+    .content-left h3 {
+        font-size: 20px;
+        font-weight: bold;
+        margin-bottom: 26px;
+    }
+    .content-left #menu li {
+        margin-bottom: 15px;
+    }
+    
+    .content-left #menu li a {
+        font-size: 17px;
+        color: #374f7c;
+        font-weight: bold;
+    }
+.content-right {
+    width: 30%;
+    border: 1px solid #ddd;
+}
+.main-content {
+    width: 50%;
+    border: 1px solid #ddd;
+}
+.txt-title {
+    font-size: 15px;
+    /*color: #374f7c;*/
+    color: #4a4a4a;
+}
+.font-bold {
+    font-weight: bold;
+}
+.form-login h3 {
+    font-size: 16px;
+    text-align: center;
+    margin-bottom: 20px;
+}
+.form-login {
+    padding: 0px 10px;
+}
+
+.user-name, .mat-khau {
+    margin-bottom: 10px;
+}
+.btn-login {
+    float: right;
+}
+.ghi-nho{
+    margin: 20px 0px 10px 0px;
+}
+label {
+    font-weight:unset;
+}
+.clear-left {
+    padding-left: 0px;
+}
+.clear-right{
+    padding-right: 0px;
+}
